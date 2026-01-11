@@ -3,7 +3,7 @@ import './index.css';
 import Landing from './pages/Landing.jsx';
 import Login from './pages/Login.jsx'
 import LoginInput from './pages/LoginInput.jsx';
-import SignUp from './pages/Signup.jsx';
+import SignUp from './pages/SignUp.jsx';
 import Dashboard from "./pages/Dashboard.jsx";
 import Upload from "./pages/Upload.jsx";
 import EdiText from "./pages/EdiText.jsx";
